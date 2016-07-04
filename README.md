@@ -1,6 +1,7 @@
 # primus-headless-cookie
 
-A monkey-patch around http for headless Primus.createSocket to handle sticky sessions & cookies. Result of [issue #452 at primus](https://github.com/primus/primus/issues/452)
+A monkey-patch around http for headless Primus.createSocket to handle sticky sessions & cookies. 
+Result of [issue #452 at primus](https://github.com/primus/primus/issues/452)
 
 ## Usage
 
