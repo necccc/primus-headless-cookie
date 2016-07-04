@@ -1,0 +1,25 @@
+{
+  "name": "primus-headless-cookie",
+  "version": "1.0.0",
+  "description": "A monkey-patch around http for headless Primus.createSocket to handle sticky sessions & cookies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/necccc/primus-headless-cookie.git"
+  },
+  "keywords": [
+    "primus",
+    "cookies",
+    "createsocket",
+    "sticky-session"
+  ],
+  "author": "nec@shell8.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/necccc/primus-headless-cookie/issues"
+  },
+  "homepage": "https://github.com/necccc/primus-headless-cookie#readme"
+}
